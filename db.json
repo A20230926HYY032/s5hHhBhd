@@ -1,9 +1,11 @@
 {
-"data":{
-	"isOpen": true,
-    "adjust_token": "cvvgrz67jzsw",
-	"urlB": "https://mgbetwin.com/?id=44513234",
-	"appsflyer_key": "FMFDuRa2HcN8ktxUmqHf4Y",
-	"horizontal_screen_B": 2
-}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
